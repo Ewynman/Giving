@@ -35,7 +35,7 @@
 })(jQuery); // End of use strict
 
 /*==================================COUNTDOWN================================ */
-var countDownDate = new Date("May 2, 2023 10:00:00").getTime();
+var countDownDate = new Date("May 1, 2023 17:00:00").getTime();
 
 var x = setInterval(function () {
   var now = new Date().getTime();
